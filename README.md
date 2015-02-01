@@ -5,6 +5,8 @@ Introduction
 ------------
 This binary is up to date with https://bitbucket.org/jankowfsky/winnfsd/commits/b1de80f9217887bd69840911810a7eb8c8c6537e
 
+This is nothing more than compiled code from https://bitbucket.org/jankowfsky/winnfsd which includes many fixes to WinNFSd.
+
 * Fork of WinNFSd_edited by ZeWarden(http://github.com/ZeWaren/WinNFSd_edited), based on WinNFSd by vincentgao (http://sourceforge.net/projects/winnfsd/).
 * License: GPL.
 * Runs on all major versions of Windows.
