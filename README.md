@@ -1,5 +1,8 @@
 WinNFSd
 =======
+Wiki
+------------
+https://github.com/dziad/WinNFSdBinary/wiki
 
 Introduction
 ------------
